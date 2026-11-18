@@ -1,0 +1,2 @@
+Item ID,Evidence Description,Date/Time,Released By,Received By,Purpose,SHA-256,Notes
+ITEM-01,Synthetic FAT12 training disk image (suspect_device.dd),,,,Training simulation,3e5b3bad2139015b1225e4af29b2b7bef70d678176170836eb78bcc2af4a4e5f,Generated lab artifact; not a real seized device
